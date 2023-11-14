@@ -1,0 +1,267 @@
+iso2c,country,SP.POP.TOTL,year
+  ,Africa Eastern and Southern,677243299,2020
+  ,Africa Western and Central,458803476,2020
+1A,Arab World,436080728,2020
+S3,Caribbean small states,7442291,2020
+B8,Central Europe and the Baltics,102246330,2020
+V2,Early-demographic dividend,3332105361,2020
+Z4,East Asia & Pacific,2352037717,2020
+4E,East Asia & Pacific (excluding high income),2105003391,2020
+T4,East Asia & Pacific (IDA & IBRD countries),2079198305,2020
+XC,Euro area,342949773,2020
+Z7,Europe & Central Asia,923489941,2020
+7E,Europe & Central Asia (excluding high income),420249459,2020
+T7,Europe & Central Asia (IDA & IBRD countries),462247461,2020
+EU,European Union,447794691,2020
+F1,Fragile and conflict affected situations,930006546,2020
+XE,Heavily indebted poor countries (HIPC),823480038,2020
+XD,High income,1214930230,2020
+XF,IBRD only,4853608684,2020
+ZT,IDA & IBRD total,6562212357,2020
+XH,IDA blend,574159138,2020
+XI,IDA only,1134444535,2020
+XG,IDA total,1708603673,2020
+V3,Late-demographic dividend,2307887395,2020
+ZJ,Latin America & Caribbean,652276325,2020
+XJ,Latin America & Caribbean (excluding high income),595242966,2020
+T2,Latin America & the Caribbean (IDA & IBRD countries),636492840,2020
+XL,Least developed countries: UN classification,1057438163,2020
+XO,Low & middle income,6509474374,2020
+XM,Low income,665149035,2020
+XN,Lower middle income,3330652547,2020
+ZQ,Middle East & North Africa,464554123,2020
+XQ,Middle East & North Africa (excluding high income),396147843,2020
+T3,Middle East & North Africa (IDA & IBRD countries),391344574,2020
+XP,Middle income,5844325339,2020
+XU,North America,367553264,2020
+XY,Not classified,NA,2020
+OE,OECD members,1370858752,2020
+S4,Other small states,31941786,2020
+S2,Pacific island small states,2528958,2020
+V4,Post-demographic dividend,1115116448,2020
+V1,Pre-demographic dividend,970795671,2020
+S1,Small states,41913035,2020
+8S,South Asia,1856882402,2020
+T5,South Asia (IDA & IBRD),1856882402,2020
+ZG,Sub-Saharan Africa,1136046775,2020
+ZF,Sub-Saharan Africa (excluding high income),1135948313,2020
+T6,Sub-Saharan Africa (IDA & IBRD countries),1136046775,2020
+XT,Upper middle income,2513672792,2020
+1W,World,7752840547,2020
+AF,Afghanistan,38928341,2020
+AL,Albania,2837743,2020
+DZ,Algeria,43851043,2020
+AS,American Samoa,55197,2020
+AD,Andorra,77265,2020
+AO,Angola,32866268,2020
+AG,Antigua and Barbuda,97928,2020
+AR,Argentina,45376763,2020
+AM,Armenia,2963234,2020
+AW,Aruba,106766,2020
+AU,Australia,25687041,2020
+AT,Austria,8917205,2020
+AZ,Azerbaijan,10110116,2020
+BS,"Bahamas, The",393248,2020
+BH,Bahrain,1701583,2020
+BD,Bangladesh,164689383,2020
+BB,Barbados,287371,2020
+BY,Belarus,9398861,2020
+BE,Belgium,11555997,2020
+BZ,Belize,397621,2020
+BJ,Benin,12123198,2020
+BM,Bermuda,63903,2020
+BT,Bhutan,771612,2020
+BO,Bolivia,11673029,2020
+BA,Bosnia and Herzegovina,3280815,2020
+BW,Botswana,2351625,2020
+BR,Brazil,212559409,2020
+VG,British Virgin Islands,30237,2020
+BN,Brunei Darussalam,437483,2020
+BG,Bulgaria,6927288,2020
+BF,Burkina Faso,20903278,2020
+BI,Burundi,11890781,2020
+CV,Cabo Verde,555988,2020
+KH,Cambodia,16718971,2020
+CM,Cameroon,26545864,2020
+CA,Canada,38005238,2020
+KY,Cayman Islands,65720,2020
+CF,Central African Republic,4829764,2020
+TD,Chad,16425859,2020
+JG,Channel Islands,173859,2020
+CL,Chile,19116209,2020
+CN,China,1402112000,2020
+CO,Colombia,50882884,2020
+KM,Comoros,869595,2020
+CD,"Congo, Dem. Rep.",89561404,2020
+CG,"Congo, Rep.",5518092,2020
+CR,Costa Rica,5094114,2020
+CI,Cote d'Ivoire,26378275,2020
+HR,Croatia,4047200,2020
+CU,Cuba,11326616,2020
+CW,Curacao,155014,2020
+CY,Cyprus,1207361,2020
+CZ,Czech Republic,10698896,2020
+DK,Denmark,5831404,2020
+DJ,Djibouti,988002,2020
+DM,Dominica,71991,2020
+DO,Dominican Republic,10847904,2020
+EC,Ecuador,17643060,2020
+EG,"Egypt, Arab Rep.",102334403,2020
+SV,El Salvador,6486201,2020
+GQ,Equatorial Guinea,1402985,2020
+ER,Eritrea,3213969,2011
+EE,Estonia,1331057,2020
+SZ,Eswatini,1160164,2020
+ET,Ethiopia,114963583,2020
+FO,Faroe Islands,48865,2020
+FJ,Fiji,896444,2020
+FI,Finland,5530719,2020
+FR,France,67391582,2020
+PF,French Polynesia,280904,2020
+GA,Gabon,2225728,2020
+GM,"Gambia, The",2416664,2020
+GE,Georgia,3714000,2020
+DE,Germany,83240525,2020
+GH,Ghana,31072945,2020
+GI,Gibraltar,33691,2020
+GR,Greece,10715549,2020
+GL,Greenland,56367,2020
+GD,Grenada,112519,2020
+GU,Guam,168783,2020
+GT,Guatemala,16858333,2020
+GN,Guinea,13132792,2020
+GW,Guinea-Bissau,1967998,2020
+GY,Guyana,786559,2020
+HT,Haiti,11402533,2020
+HN,Honduras,9904608,2020
+HK,"Hong Kong SAR, China",7481800,2020
+HU,Hungary,9749763,2020
+IS,Iceland,366425,2020
+IN,India,1380004385,2020
+ID,Indonesia,273523621,2020
+IR,"Iran, Islamic Rep.",83992953,2020
+IQ,Iraq,40222503,2020
+IE,Ireland,4994724,2020
+IM,Isle of Man,85032,2020
+IL,Israel,9216900,2020
+IT,Italy,59554023,2020
+JM,Jamaica,2961161,2020
+JP,Japan,125836021,2020
+JO,Jordan,10203140,2020
+KZ,Kazakhstan,18754440,2020
+KE,Kenya,53771300,2020
+KI,Kiribati,119446,2020
+KP,"Korea, Dem. People's Rep.",25778815,2020
+KR,"Korea, Rep.",51780579,2020
+XK,Kosovo,1775378,2020
+KW,Kuwait,4270563,2020
+KG,Kyrgyz Republic,6591600,2020
+LA,Lao PDR,7275556,2020
+LV,Latvia,1901548,2020
+LB,Lebanon,6825442,2020
+LS,Lesotho,2142252,2020
+LR,Liberia,5057677,2020
+LY,Libya,6871287,2020
+LI,Liechtenstein,38137,2020
+LT,Lithuania,2794700,2020
+LU,Luxembourg,632275,2020
+MO,"Macao SAR, China",649342,2020
+MG,Madagascar,27691019,2020
+MW,Malawi,19129955,2020
+MY,Malaysia,32365998,2020
+MV,Maldives,540542,2020
+ML,Mali,20250834,2020
+MT,Malta,525285,2020
+MH,Marshall Islands,59194,2020
+MR,Mauritania,4649660,2020
+MU,Mauritius,1265740,2020
+MX,Mexico,128932753,2020
+FM,"Micronesia, Fed. Sts.",115021,2020
+MD,Moldova,2617820,2020
+MC,Monaco,39244,2020
+MN,Mongolia,3278292,2020
+ME,Montenegro,621718,2020
+MA,Morocco,36910558,2020
+MZ,Mozambique,31255435,2020
+MM,Myanmar,54409794,2020
+NA,Namibia,2540916,2020
+NR,Nauru,10834,2020
+NP,Nepal,29136808,2020
+NL,Netherlands,17441139,2020
+NC,New Caledonia,271960,2020
+NZ,New Zealand,5084300,2020
+NI,Nicaragua,6624554,2020
+NE,Niger,24206636,2020
+NG,Nigeria,206139587,2020
+MK,North Macedonia,2083380,2020
+MP,Northern Mariana Islands,57557,2020
+NO,Norway,5379475,2020
+OM,Oman,5106622,2020
+PK,Pakistan,220892331,2020
+PW,Palau,18092,2020
+PA,Panama,4314768,2020
+PG,Papua New Guinea,8947027,2020
+PY,Paraguay,7132530,2020
+PE,Peru,32971846,2020
+PH,Philippines,109581085,2020
+PL,Poland,37950802,2020
+PT,Portugal,10305564,2020
+PR,Puerto Rico,3194034,2020
+QA,Qatar,2881060,2020
+RO,Romania,19286123,2020
+RU,Russian Federation,144104080,2020
+RW,Rwanda,12952209,2020
+WS,Samoa,198410,2020
+SM,San Marino,33938,2020
+ST,Sao Tome and Principe,219161,2020
+SA,Saudi Arabia,34813867,2020
+SN,Senegal,16743930,2020
+RS,Serbia,6908224,2020
+SC,Seychelles,98462,2020
+SL,Sierra Leone,7976985,2020
+SG,Singapore,5685807,2020
+SX,Sint Maarten (Dutch part),40812,2020
+SK,Slovak Republic,5458827,2020
+SI,Slovenia,2100126,2020
+SB,Solomon Islands,686878,2020
+SO,Somalia,15893219,2020
+ZA,South Africa,59308690,2020
+SS,South Sudan,11193729,2020
+ES,Spain,47351567,2020
+LK,Sri Lanka,21919000,2020
+KN,St. Kitts and Nevis,53192,2020
+LC,St. Lucia,183629,2020
+MF,St. Martin (French part),38659,2020
+VC,St. Vincent and the Grenadines,110947,2020
+SD,Sudan,43849269,2020
+SR,Suriname,586634,2020
+SE,Sweden,10353442,2020
+CH,Switzerland,8636896,2020
+SY,Syrian Arab Republic,17500657,2020
+TJ,Tajikistan,9537642,2020
+TZ,Tanzania,59734213,2020
+TH,Thailand,69799978,2020
+TL,Timor-Leste,1318442,2020
+TG,Togo,8278737,2020
+TO,Tonga,105697,2020
+TT,Trinidad and Tobago,1399491,2020
+TN,Tunisia,11818618,2020
+TR,Turkey,84339067,2020
+TM,Turkmenistan,6031187,2020
+TC,Turks and Caicos Islands,38718,2020
+TV,Tuvalu,11792,2020
+UG,Uganda,45741000,2020
+UA,Ukraine,44134693,2020
+AE,United Arab Emirates,9890400,2020
+GB,United Kingdom,67215293,2020
+US,United States,329484123,2020
+UY,Uruguay,3473727,2020
+UZ,Uzbekistan,34232050,2020
+VU,Vanuatu,307150,2020
+VE,"Venezuela, RB",28435943,2020
+VN,Vietnam,97338583,2020
+VI,Virgin Islands (U.S.),106290,2020
+PS,West Bank and Gaza,4803269,2020
+YE,"Yemen, Rep.",29825968,2020
+ZM,Zambia,18383956,2020
+ZW,Zimbabwe,14862927,2020
